@@ -1,0 +1,22 @@
+Osoby biorące udział w projekcie:
+- Sebastian Fiećko
+
+Technologia:
+- Xamarin
+- LINQ
+
+Opis:
+Aplikacja stworzona przy użyciu Xamarina będzie bazowała na idei organizera. Użytkownik będzie mógł
+tworzyć listy z zadaniami (tzw. TO-DO List), listy zakupowe, notatki, a także będzie mógł do nich
+przypisywać alarmy i przypomnienia. Każdy rodzaj danych użytkownika będzie na osobnym ekranie aplikacji,
+które będą przełączane w lewo/w prawo. 
+Aplikacja porusza kwestie:
+- pracy z czasem i datą,
+- magazynowania danych,
+- sortowania zadań/notatek/list
+- łączenia aplikacji z alarmem
+- personalizacji wyglądu aplikacji
+
+Aplikacja będzie testowana na systemie Android.
+
+
