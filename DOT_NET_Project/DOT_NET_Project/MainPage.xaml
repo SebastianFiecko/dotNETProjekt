@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:DOT_NET_Project"
+             x:Class="DOT_NET_Project.MainPage">
+
+    <ContentPage Title="To-Do List" Icon="todo.png">
+        <ContentPage.Content>
+            <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+                <Label Text="To-Do List"/>
+            </StackLayout>
+        </ContentPage.Content>
+    </ContentPage>
+
+    <ContentPage Title="Notes" Icon="note.png">
+        <ContentPage.Content>
+            <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+                <Label Text="Notes"/>
+            </StackLayout>
+        </ContentPage.Content>
+    </ContentPage>
+
+    <ContentPage Title="Shopping List" Icon="list.png">
+        <ContentPage.Content>
+            <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+                <Label Text="Shopping List"/>
+            </StackLayout>
+        </ContentPage.Content>
+    </ContentPage>
+
+</TabbedPage>
