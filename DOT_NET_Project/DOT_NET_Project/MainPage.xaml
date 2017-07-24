@@ -28,4 +28,12 @@
         </ContentPage.Content>
     </ContentPage>
 
+    <ContentPage Title="Settings" Icon="list.png">
+        <ContentPage.Content>
+            <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+                <Label Text="Settings"/>
+            </StackLayout>
+        </ContentPage.Content>
+    </ContentPage>
+
 </TabbedPage>
