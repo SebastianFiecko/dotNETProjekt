@@ -28,7 +28,7 @@
         </ContentPage.Content>
     </ContentPage>
 
-    <ContentPage Title="Settings" Icon="list.png">
+    <ContentPage Title="Settings" Icon="settings.png">
         <ContentPage.Content>
             <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
                 <Label Text="Settings"/>
