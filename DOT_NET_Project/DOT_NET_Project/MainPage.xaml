@@ -4,6 +4,12 @@
              xmlns:local="clr-namespace:DOT_NET_Project"
              x:Class="DOT_NET_Project.MainPage">
 
+    <local:ToDoPage />
+    <local:NotesPage />
+    <local:ShoppingPage />
+    <local:Settings />
+
+    <!--
     <ContentPage Title="To-Do List" Icon="todo.png">
         <ContentPage.Content>
             <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
@@ -35,5 +41,6 @@
             </StackLayout>
         </ContentPage.Content>
     </ContentPage>
+    -->
 
 </TabbedPage>
